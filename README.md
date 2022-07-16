@@ -22,4 +22,4 @@ tutorial: https://www.bilibili.com/video/BV1yr4y137U5?spm_id_from=333.337.search
 ## algorithms
 ### beauty algorithm
 1. Microdermabrasion
-
+Gaussian Bilateral Filter
